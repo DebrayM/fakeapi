@@ -1,40 +1,43 @@
-[
-  {
-    "_id": "6245b7f3cce61fab95a09555",
-    "company": "SUPPORTAL",
-    "email": "humphreyanthony@supportal.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Therese Barron"
-      },
-      {
-        "id": 1,
-        "name": "Sampson Humphrey"
-      },
-      {
-        "id": 2,
-        "name": "Cherry Aguilar"
-      }
-    ]
-  },
-  {
-    "_id": "6245b7f394d4cd2eff79b861",
-    "company": "NETPLODE",
-    "email": "cherryaguilar@netplode.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Karen Shannon"
-      },
-      {
-        "id": 1,
-        "name": "Swanson Vasquez"
-      },
-      {
-        "id": 2,
-        "name": "Yesenia Hensley"
-      }
-    ]
-  }
-]
+{
+  "users": 
+  [
+    {
+      "_id": "6245b7f3cce61fab95a09555",
+      "company": "SUPPORTAL",
+      "email": "humphreyanthony@supportal.com",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Alfred Barron"
+        },
+        {
+          "id": 1,
+          "name": "Sampson Humphrey"
+        },
+        {
+          "id": 2,
+          "name": "Cherry Aguilar"
+        }
+      ]
+    },
+    {
+      "_id": "6245b7f394d4cd2eff79b861",
+      "company": "NETPLODE",
+      "email": "cherryaguilar@netplode.com",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Karen Shannon"
+        },
+        {
+          "id": 1,
+          "name": "Swanson Vasquez"
+        },
+        {
+          "id": 2,
+          "name": "Yesenia Hensley"
+        }
+      ]
+    }
+  ]
+}
