@@ -93,43 +93,5 @@
         "name": "Tammy Pollard"
       }
     ]
-  },
-  {
-    "_id": "6245b237f5afa30ab12a23af",
-    "company": "EXIAND",
-    "email": "tammypollard@exiand.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Myrtle Garrison"
-      },
-      {
-        "id": 1,
-        "name": "Evelyn Spencer"
-      },
-      {
-        "id": 2,
-        "name": "Polly Reid"
-      }
-    ]
-  },
-  {
-    "_id": "6245b237d1fb685c540b5ed6",
-    "company": "COMVEYOR",
-    "email": "pollyreid@comveyor.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Stanton Gonzales"
-      },
-      {
-        "id": 1,
-        "name": "Mullins Dodson"
-      },
-      {
-        "id": 2,
-        "name": "Sonya Michael"
-      }
-    ]
   }
 ]
