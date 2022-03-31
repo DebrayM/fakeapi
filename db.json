@@ -1,17 +1,135 @@
-{
-    "stock" : [
-
-        {"_id": "P001",
-        "title": "Eum molestiae magni ut repudiandae",
-        "price": "1200"
-        },
-        {"_id": "P002",
-        "title": "repudiandae nostrum sed sin",
-        "price": "1200"
-        },
-        {"_id": "P003",
-        "title": "sed sint odio At nihil quibusdam",
-        "price": "2500"
-        }
+[
+  {
+    "_id": "6245b2370a2d3e90d8e2ed9e",
+    "company": "PIVITOL",
+    "email": "williscompton@pivitol.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mckenzie Valentine"
+      },
+      {
+        "id": 1,
+        "name": "Ellen Ferrell"
+      },
+      {
+        "id": 2,
+        "name": "Leach Dillon"
+      }
     ]
-}
+  },
+  {
+    "_id": "6245b237f4d0db633d03ff55",
+    "company": "VERTON",
+    "email": "leachdillon@verton.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Williams Christian"
+      },
+      {
+        "id": 1,
+        "name": "Jennie Pitts"
+      },
+      {
+        "id": 2,
+        "name": "Ashley Wiley"
+      }
+    ]
+  },
+  {
+    "_id": "6245b2372c586cab63797f6e",
+    "company": "CODAX",
+    "email": "ashleywiley@codax.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Alexandra Andrews"
+      },
+      {
+        "id": 1,
+        "name": "Gill Barnett"
+      },
+      {
+        "id": 2,
+        "name": "Olson Mcclure"
+      }
+    ]
+  },
+  {
+    "_id": "6245b2378c9cf41e2f3a12d7",
+    "company": "ESCENTA",
+    "email": "olsonmcclure@escenta.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Deanne Taylor"
+      },
+      {
+        "id": 1,
+        "name": "Dotson Ruiz"
+      },
+      {
+        "id": 2,
+        "name": "Goff Carr"
+      }
+    ]
+  },
+  {
+    "_id": "6245b237fb84850ce71b7fe9",
+    "company": "REMOLD",
+    "email": "goffcarr@remold.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sawyer Dotson"
+      },
+      {
+        "id": 1,
+        "name": "Alexander Nunez"
+      },
+      {
+        "id": 2,
+        "name": "Tammy Pollard"
+      }
+    ]
+  },
+  {
+    "_id": "6245b237f5afa30ab12a23af",
+    "company": "EXIAND",
+    "email": "tammypollard@exiand.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Myrtle Garrison"
+      },
+      {
+        "id": 1,
+        "name": "Evelyn Spencer"
+      },
+      {
+        "id": 2,
+        "name": "Polly Reid"
+      }
+    ]
+  },
+  {
+    "_id": "6245b237d1fb685c540b5ed6",
+    "company": "COMVEYOR",
+    "email": "pollyreid@comveyor.com",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stanton Gonzales"
+      },
+      {
+        "id": 1,
+        "name": "Mullins Dodson"
+      },
+      {
+        "id": 2,
+        "name": "Sonya Michael"
+      }
+    ]
+  }
+]
