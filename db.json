@@ -1,96 +1,39 @@
 [
   {
-    "_id": "6245b2370a2d3e90d8e2ed9e",
-    "company": "PIVITOL",
-    "email": "williscompton@pivitol.com",
+    "_id": "6245b7f3cce61fab95a09555",
+    "company": "SUPPORTAL",
+    "email": "humphreyanthony@supportal.com",
     "friends": [
       {
         "id": 0,
-        "name": "Mckenzie Valentine"
+        "name": "Therese Barron"
       },
       {
         "id": 1,
-        "name": "Ellen Ferrell"
+        "name": "Sampson Humphrey"
       },
       {
         "id": 2,
-        "name": "Leach Dillon"
+        "name": "Cherry Aguilar"
       }
     ]
   },
   {
-    "_id": "6245b237f4d0db633d03ff55",
-    "company": "VERTON",
-    "email": "leachdillon@verton.com",
+    "_id": "6245b7f394d4cd2eff79b861",
+    "company": "NETPLODE",
+    "email": "cherryaguilar@netplode.com",
     "friends": [
       {
         "id": 0,
-        "name": "Williams Christian"
+        "name": "Karen Shannon"
       },
       {
         "id": 1,
-        "name": "Jennie Pitts"
+        "name": "Swanson Vasquez"
       },
       {
         "id": 2,
-        "name": "Ashley Wiley"
-      }
-    ]
-  },
-  {
-    "_id": "6245b2372c586cab63797f6e",
-    "company": "CODAX",
-    "email": "ashleywiley@codax.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Alexandra Andrews"
-      },
-      {
-        "id": 1,
-        "name": "Gill Barnett"
-      },
-      {
-        "id": 2,
-        "name": "Olson Mcclure"
-      }
-    ]
-  },
-  {
-    "_id": "6245b2378c9cf41e2f3a12d7",
-    "company": "ESCENTA",
-    "email": "olsonmcclure@escenta.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Deanne Taylor"
-      },
-      {
-        "id": 1,
-        "name": "Dotson Ruiz"
-      },
-      {
-        "id": 2,
-        "name": "Goff Carr"
-      }
-    ]
-  },
-  {
-    "_id": "6245b237fb84850ce71b7fe9",
-    "company": "REMOLD",
-    "email": "goffcarr@remold.com",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Sawyer Dotson"
-      },
-      {
-        "id": 1,
-        "name": "Alexander Nunez"
-      },
-      {
-        "id": 2,
-        "name": "Tammy Pollard"
+        "name": "Yesenia Hensley"
       }
     ]
   }
