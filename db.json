@@ -1,14 +1,17 @@
-[
-    {"_id": "P001",
-    "title": "Eum molestiae magni ut repudiandae",
-    "price": "1200"
-    },
-    {"_id": "P002",
-    "title": "repudiandae nostrum sed sin",
-    "price": "1200"
-    },
-    {"_id": "P003",
-    "title": "sed sint odio At nihil quibusdam",
-    "price": "2500"
-    }
-]
+{
+    "stock" : [
+
+        {"_id": "P001",
+        "title": "Eum molestiae magni ut repudiandae",
+        "price": "1200"
+        },
+        {"_id": "P002",
+        "title": "repudiandae nostrum sed sin",
+        "price": "1200"
+        },
+        {"_id": "P003",
+        "title": "sed sint odio At nihil quibusdam",
+        "price": "2500"
+        }
+    ]
+}
